@@ -2,7 +2,7 @@ public class Student {
     public static void main(String[] args) {
         int rollno = 1596;
         String sname = "KRISHNA";
-        String course = "PYTHON"; 
+        String course = "charvik"; 
         System.out.println("LEARN HERE AND LEAD ANYWHERE!!!");
         System.out.println("My Name is: " + sname);
         System.out.println("My Course is: " + course);
@@ -11,7 +11,6 @@ public class Student {
         System.out.println("THANK YOU");
          System.out.println("THANK YOU");
          System.out.println("THANK YOU");
-         System.out.println("THANK YOU");
-         System.out.println("THANK YOU");
+        
     }
 }
